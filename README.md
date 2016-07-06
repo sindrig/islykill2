@@ -14,7 +14,7 @@ Add islykill2 to your INSTALLED_APPS if using django.
 
 ## Usage
 
-See example.py on [github](https://github.com/sindrig/)
+See example.py on [github](https://github.com/sindrig/islykill2/blob/master/example.py)
 
 ## Testing
 
