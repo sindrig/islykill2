@@ -8,7 +8,7 @@ except ImportError:
 
 setup(
     name='Islykill2',
-    version='1.0.1',
+    version='1.0.2',
     description='Utility to parse and verify Islykill authentication, '
                 'using SAML 2.0',
     author='Sindri Gudmundsson',
@@ -18,5 +18,5 @@ setup(
     include_package_data=True,
     zip_safe=False,
     licence='MIT',
-    install_requires=['signxml']
+    install_requires=['signxml==1.0.2']
 )
