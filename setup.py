@@ -18,5 +18,5 @@ setup(
     include_package_data=True,
     zip_safe=False,
     licence='MIT',
-    install_requires=['signxml==1.0.2']
+    install_requires=['signxml==4.0.4']
 )
